@@ -1,0 +1,14 @@
+TITLE     mobley_1857976_GMX.gro created by acpype (Rev: 403) on Thu Jan 12 15:32:07 2017
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   40.000   40.000   40.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  C1  MOL     1      19.455  19.481  19.805  1.00  0.00            
+ATOM      2  C2  MOL     1      20.485  20.411  20.435  1.00  0.00            
+ATOM      3  CL1 MOL     1      21.815  20.781  19.315  1.00  0.00            
+ATOM      4  CL2 MOL     1      18.735  20.201  18.345  1.00  0.00            
+ATOM      5  H1  MOL     1      18.645  19.301  20.515  1.00  0.00            
+ATOM      6  H2  MOL     1      19.905  18.521  19.525  1.00  0.00            
+ATOM      7  H3  MOL     1      20.035  21.361  20.745  1.00  0.00            
+ATOM      8  H4  MOL     1      20.925  19.941  21.315  1.00  0.00            
+TER
+ENDMDL
